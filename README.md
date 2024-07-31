@@ -11,7 +11,7 @@
     </p>
 
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+LAZACK+MD+v2+MADE+BY;LAZACK28;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+   
 
 
 
